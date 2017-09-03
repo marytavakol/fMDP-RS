@@ -28,6 +28,13 @@ In Topic Detection, the topics for every attribute are chosen according to a thr
 
 In Recommendation, the rank of items from the test data is computed from obtained Q-values.
 
-
-
-
+'''
+@inproceedings{tavakol2014factored,
+  title={Factored MDPs for detecting topics of user sessions},
+  author={Tavakol, Maryam and Brefeld, Ulf},
+  booktitle={Proceedings of the 8th ACM Conference on Recommender Systems},
+  pages={33--40},
+  year={2014},
+  organization={ACM}
+}
+'''
